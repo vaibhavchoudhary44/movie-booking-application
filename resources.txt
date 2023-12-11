@@ -1,0 +1,3 @@
+backend mongodb
+
+mongodb+srv://vaibhavchoudhary:vaibhav@cluster0.gaugaam.mongodb.net/
